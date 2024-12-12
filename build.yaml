@@ -24,13 +24,13 @@
 ---
 include:
   - board: nice_nano_v2
-    shield: lily58_left nice_view_adapter nice_view
+    shield: lily58d_left
     
   - board: nice_nano_v2
-    shield: lily58_right nice_view_adapter nice_view
+    shield: lily58d_right
     
   - board: raytac_mdbt50q_rx
-    shield: lily58_dongle nice_view_adapter nice_view
+    shield: lily58d_dongle
     snippet: zmk-usb-logging
     
   - board: nice_nano_v2
