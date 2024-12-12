@@ -1,6 +1,6 @@
 file_format: "1"
-id: lily58
-name: Lily58
+id: lily58d
+name: Lily58d
 type: shield
 url: https://github.com/kata0510/Lily58
 requires: [pro_micro]
@@ -9,6 +9,6 @@ features:
   - keys
   - display
 siblings:
-  - lily58_left
-  - lily58_right
-  - lily58_dongle
+  - lily58d_left
+  - lily58d_right
+  - lily58d_dongle
