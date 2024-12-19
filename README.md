@@ -9,3 +9,6 @@ For refrence in case you want to use pi pico:
 https://mcuoneclipse.com/2023/10/22/debug-probes-for-rp2040-with-vs-code/
 https://mcuoneclipse.com/2023/04/08/open-source-picolink-raspberry-pi-rp2040-cmsis-dap-debug-probe/
 https://github.com/raspberrypi/debugprobe
+
+and lastly:
+https://github.com/adafruit/Adafruit_nRF52_Bootloader
