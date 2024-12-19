@@ -31,8 +31,8 @@ include:
     
   - board: raytac_mdbt50q_rx
     shield: lily58_dongle
-    snippet: studio-rpc-usb-uart 
-    cmake-args: -DCONFIG_ZMK_USB_LOGGING=y
+#    snippet: studio-rpc-usb-uart 
+#    cmake-args: -DCONFIG_ZMK_USB_LOGGING=y
     
 #  - board: raytac_mdbt50q_rx
 #    shield: settings_reset
