@@ -31,6 +31,7 @@ include:
     
   - board: raytac_mdbt50q_rx
     shield: lily58_dongle
+    cmake-args: -DCONFIG_ZMK_USB_LOGGING=y
     snippet: zmk-usb-logging
     
   - board: raytac_mdbt50q_rx
