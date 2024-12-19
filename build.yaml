@@ -33,5 +33,5 @@ include:
     shield: lily58_dongle
     cmake-args: -DCONFIG_ZMK_USB_LOGGING=y
     
-  - board: raytac_mdbt50q_rx
-    shield: settings_reset
+#  - board: raytac_mdbt50q_rx
+#    shield: settings_reset
