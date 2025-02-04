@@ -10,9 +10,6 @@ config ZMK_STUDIO
 config ZMK_USB
     default y
 
-config ZMK_KEYBOARD_NAME
-    default "Lily58"
-
 config ZMK_SPLIT_ROLE_CENTRAL
     default y
 
