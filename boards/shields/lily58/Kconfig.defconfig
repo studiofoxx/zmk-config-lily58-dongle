@@ -5,7 +5,7 @@ config ZMK_BLE
     default 
 
 config ZMK_KEYBOARD_NAME
-    default "Goblin58"
+    default "Lily58"
 
 config ZMK_USB
     default y
