@@ -2,10 +2,10 @@
 if SHIELD_LILY58_DONGLE
 
 config ZMK_BLE
-    default y
+    default 
 
-config ZMK_STUDIO
-    default y
+config ZMK_KEYBOARD_NAME
+    default "Goblin58"
 
 config ZMK_USB
     default y
